@@ -1,0 +1,5 @@
+/joint_simulator:
+  ros__parameters:
+    joint_name: "joint1"
+    initial_angle: 0.0
+    velocity: 0.0
